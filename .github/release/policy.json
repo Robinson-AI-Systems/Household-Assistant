@@ -1,0 +1,6 @@
+{
+  "repository": "Robinson-AI-Systems/Household-Assistant",
+  "requiredChecks": [
+    "release-policy"
+  ]
+}
